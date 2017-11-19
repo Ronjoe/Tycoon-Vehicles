@@ -1,0 +1,27 @@
+**July 9th**
+```css
+Add taxi & tow truck to carshop
+Adjusted /pay command 
+Added new textures (gas stations, beach buildings)
+Added fire station to LSIA
+```
+
+
+**July 10th**
+```css
+Increased amount of energy taken from garbage job (15 instead of 10)
+Fixed "not enough energy" message not displaying properly
+Fixed random fuel message from displaying
+Added bonus pay when completing garbage route
+Increased taxi payout (850-1050)
+Increased amount of energy taken from taxi job (was 5, is now 10)
+Added /atc commands for pilots (only pilots within range will see this)
+Updated fishing, reduced chance to catch fish, reduced xp gain by -3
+Reverted back to previous fuel system
+
+Weekend changes I didnt post
+Add taxi & tow truck to carshop
+Adjusted /pay command (works now, and no longer requires you to be near the player) 
+Added new textures (gas stations, beach buildings)
+Added fire station to LSIA
+```
