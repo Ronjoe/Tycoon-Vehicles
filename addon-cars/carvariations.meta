@@ -465,5 +465,35 @@
       <lightSettings value="1" />
       <sirenSettings value="10" />
     </Item>
+    <Item>
+      <modelName>sectruck</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            112
+            112
+            15 
+            0
+          </indices>
+          <liveries>
+            <Item value="true" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+      </colors>
+      <kits />
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities />
+      </plateProbabilities>
+      <lightSettings value="1" />
+      <sirenSettings value="7" />
+    </Item>
   </variationData>
 </CVehicleModelInfoVariation>
